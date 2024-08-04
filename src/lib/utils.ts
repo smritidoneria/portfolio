@@ -22,6 +22,6 @@ export function constructMetadata({
       title, description, images: [{ url: image }]
     },
     icons,
-    metadataBase: new URL("https://smritidoneria.live")
+  
   }
 }
